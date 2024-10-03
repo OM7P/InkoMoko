@@ -10,8 +10,6 @@ import {
         <AvatarImage src={"/images/avatar.jpg"} alt="@shadcn" />
         <AvatarFallback>CN</AvatarFallback>
       </Avatar>
-
-      
     )
   }
   

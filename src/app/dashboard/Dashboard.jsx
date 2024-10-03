@@ -11,7 +11,7 @@ import Header from "../component/header";
 import { BarChart } from "../component/barchart";
 import SpinnerApp from "../component/loader";
 import SiteLoading from "../component/loader";
-// import useStore from "../../store/storeFile";
+
 
 const Dashboard = () => {
     // const { loading } = useStore();
